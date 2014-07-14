@@ -63,6 +63,8 @@ enum Log_event_type
 
   INCIDENT_EVENT = 26,
 
+  HEARTBEAT_EVENT = 27,
+
   ENUM_END_EVENT
 };
 
