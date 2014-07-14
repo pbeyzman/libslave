@@ -1,6 +1,6 @@
 
 # Please specify the directories with boost and mysql include files here.
-PREFIX=/begun/daemon
+PREFIX=${HOME}/local
 BOOST_INCLUDES = ${PREFIX}/include
 MYSQL_INCLUDES = ${PREFIX}/include/mysql
 
